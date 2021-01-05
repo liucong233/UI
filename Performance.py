@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 # author:liucong
 
-# -*- coding: utf-8 -*-
-# author:lcy
-
 from core.MultiAdb import MultiAdb as Madb
 import threading
 from tools.Excel import *
