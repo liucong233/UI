@@ -3,9 +3,6 @@
 
 import inspect
 import unittest
-from util.common import *
-from util import commonElement
-from util.commoninterface import *
 from tools.log import logger
 from airtest.core.api import *
 from core.MultiAdb import MultiAdb as Madb
