@@ -2,11 +2,8 @@
 # author:lcy
 
 import unittest
-import time
-from BeautifulReport import BeautifulReport
-from airtest.core.api import *
+from extra.BeautifulReport import BeautifulReport
 from core.MultiAdb import *
-from tools import File
 from TestCase import *
 from airtest.core.android.adb import ADB
 from tools.log import *

@@ -7,4 +7,8 @@
 
 3、airtest库logger文件有更改，路径为\python\Lib\site-packages\airtest\utils\logger
 
-更改后的文件在 UI\logger.py
+更改后的文件在 extra\logger.py
+
+4、BeautifulReport库BeautifulReport.py文件有更改，路径为\python\Lib\site-packages\BeautifulReport\BeautifulReport.py
+
+更改后的文件在 extra\BeautifulReport.py

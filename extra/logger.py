@@ -8,9 +8,9 @@ import configparser
 
 con = configparser.ConfigParser()
 pro_path = os.getcwd()
-log_path = os.path.join(pro_path, 'log')
+log_path = os.path.join(pro_path, '../log')
 logname = os.path.join(log_path, '{0}.txt'.format(time.strftime('%Y-%m-%d')))
-config_path = os.path.join(pro_path, 'config.ini')
+config_path = os.path.join(pro_path, '../config.ini')
 
 
 def get_basic_config(key):
