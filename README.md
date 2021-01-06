@@ -4,3 +4,7 @@
 1、python版本必须小于等于3.7
 
 2、poco库安装时库名为pocoui
+
+3、airtest库logger文件有更改，路径为\python\Lib\site-packages\airtest\utils\logger
+
+更改后的文件在 UI\logger.py
