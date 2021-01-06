@@ -7,8 +7,7 @@ from core.MultiAdb import *
 from TestCase import *
 from airtest.core.android.adb import ADB
 from tools.log import *
-from util.commoninterface import *
-
+from core.jenkins import jenkins_lastBuild_info
 _print = print
 
 
