@@ -45,6 +45,7 @@ def get_logger(name):
     handler.setFormatter(formatter)
     logger.addHandler(handler)
     # 日志处理器
+    os.makedirs(log_path, exist_ok=True)
     if not os.path.exists(logname):
         os.popen('')
         log = open(logname, "a")
