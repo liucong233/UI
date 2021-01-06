@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # author:liucong
-# -*- coding: utf-8 -*-
-# author:lcy
+
+
 import traceback
 
 from airtest.core.error import *
